@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itechnologyk
-- 👀 I’m interested in A.I. related to autonomous vehicles
+- 👀 I’m interested in A.I. relating to autonomous vehicles and aerial platforms
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: via GitHub
